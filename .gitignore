@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/
+data_clean/*
+!data_clean/.gitkeep
+*.csv
+*.csv.gz
+*.parquet
+.env
+.DS_Store

@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+wordcloud
+streamlit
+pyarrow
+jupyter
+ipykernel
+nbformat
+nbstripout
+langdetect
+nltk
