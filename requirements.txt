@@ -1,6 +1,5 @@
-# pandas est fixe : la signature (annexe A) change d'une version de pandas a l'autre
-pandas==2.3.3
-numpy<2.4
+pandas
+numpy
 matplotlib
 seaborn
 plotly
