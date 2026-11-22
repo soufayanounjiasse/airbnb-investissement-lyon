@@ -9,3 +9,5 @@ data_clean/*
 *.parquet
 .env
 .DS_Store
+!docs/sources/
+!docs/sources/*.csv
